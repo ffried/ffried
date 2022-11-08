@@ -22,6 +22,13 @@
   <img alt="Reddit" src="https://cdn.simpleicons.org/reddit/black" height='40'>
 </picture>](https://www.redit.com/user/ffried)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ffried&show_icons=true&count_private=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ffried&show_icons=true&count_private=true&theme=transparent">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ffried&show_icons=true&count_private=true&theme=default">
+  <img alt="Reddit" src="https://github-readme-stats.vercel.app/api?username=ffried&show_icons=true&count_private=true&theme=default">
+</picture>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ffried&show_icons=true&count_private=true) -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/ffried) -->
