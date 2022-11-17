@@ -20,7 +20,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/reddit/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/reddit/black">
   <img alt="Reddit" src="https://cdn.simpleicons.org/reddit/black" height='40'>
-</picture>](https://www.redit.com/user/ffried)
+</picture>](https://www.reddit.com/user/ffried)
 
 
 <picture>
